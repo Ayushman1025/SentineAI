@@ -20,7 +20,7 @@ const Head = ({ onMenuClick }) => {
       </div>
 
       
-      <img src={logo} alt="SentineAI Logo" className="h-12 w-14" />
+      <img src={logo} alt="SentineAI Logo" className="h-12 w-15" />
     </div>
   );
 };
